@@ -94,13 +94,11 @@ Settings / Code Style / PHP / set from Laravel
 Settings / Action on save / [X] reformat
 ```
 ### 21. Laravel Pint ###
+> 1. is an opinionated PHP code style fixer for minimalists. Pint is built on top of PHP-CS-Fixer and makes it simple to ensure that your code style stays clean and consistent.
+> 2. We can define it in phpstorm as a file watcher after save.
+### 22. Refactor code ###
 ```
-1. is an opinionated PHP code style fixer for minimalists. Pint is built on top of PHP-CS-Fixer and makes it simple to ensure that your code style stays clean and consistent.
-2. We can define it in phpstorm as a file watcher after save.
-```
-### 22.  ###
-```
-
+CTRL + ALT + SHIFT + T
 ```
 ### 23.  ###
 ```
