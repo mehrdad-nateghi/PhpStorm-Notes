@@ -1,4 +1,4 @@
-# PhpStorm Notes [![Generic badge](https://img.shields.io/badge/Sources-1-<COLOR>.svg)]()            [![Generic badge](https://img.shields.io/badge/Notes-10-<COLOR>.svg)]()
+# PhpStorm Notes [![Generic badge](https://img.shields.io/badge/Sources-1-<COLOR>.svg)]()            [![Generic badge](https://img.shields.io/badge/Notes-29-<COLOR>.svg)]()
 ## Sources ##
 Title  | Type | Link
 ------------- | ------------- | -------------
@@ -100,75 +100,24 @@ Settings / Action on save / [X] reformat
 ```
 CTRL + ALT + SHIFT + T
 ```
-### 23.  ###
+### 23. Find occurrences ###
 ```
-
+On word = ALT + J
 ```
-### 24.  ###
-```
-
-```
-### 25.  ###
-```
-
-```
-### 26.  ###
-```
-
-```
-### 27.  ###
-```
-
-```
-### 28.  ###
-```
-
-```
-### 29.  ###
-```
-
-```
-### 30.  ###
-```
-
-```
-### 31.  ###
-```
-
-```
-### 32.  ###
-```
-
-```
-### 33.  ###
-```
-
-```
-### 34.  ###
-```
-
-```
-### 35.  ###
-```
-
-```
-### 36.  ###
-```
-
-```
-### 37.  ###
-```
-
-```
-### 38.  ###
-```
-
-```
-### 39.  ###
-```
-
-```
-### 40.  ###
-```
-
-```
+### 24. Live Templates ###
+> Good for prepare some snipts and tests <br>
+> Select your code + Double Shift + save as a live template <br>
+> $NAME$ pointer <br>
+> $END$ tab to go there
+### 25. Tailwind css & Prettier plugin  ###
+> https://github.com/tailwindlabs/prettier-plugin-tailwindcss
+> 
+> Automatic tailwind class sorting
+### 26. Copilot Plugin ###
+> Code completion and write test
+### 27. Pest Plugin ###
+> Define keymap for run tests & run fail tests
+### 28. Xdebug ###
+> During Debugging, we can show and change variables in the console tab.
+### 29. Other Plugins ###
+> 1. Key Promoter X
