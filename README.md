@@ -140,3 +140,5 @@ Settings / Scope
 > https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
 > 
 > https://www.jetbrains.com/help/phpstorm/using-php-cs-fixer.html#excluding-files-from-inspection
+> 
+> https://gist.github.com/laravel-shift/cab527923ed2a109dda047b97d53c200
