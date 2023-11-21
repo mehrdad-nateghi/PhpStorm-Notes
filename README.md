@@ -1,8 +1,9 @@
-# PhpStorm Notes [![Generic badge](https://img.shields.io/badge/Sources-1-<COLOR>.svg)]()            [![Generic badge](https://img.shields.io/badge/Notes-29-<COLOR>.svg)]()
+# PhpStorm Notes [![Generic badge](https://img.shields.io/badge/Sources-1-<COLOR>.svg)]()            [![Generic badge](https://img.shields.io/badge/Notes-35-<COLOR>.svg)]()
 ## Sources ##
 Title  | Type | Link
 ------------- | ------------- | -------------
 PhpStorm for Laravel Developers  | Video | https://laracasts.com/series/phpstorm-for-laravel-developers
+Be Awesome in PHPStorm  | Video | https://laracasts.com/series/how-to-be-awesome-in-phpstorm
 ## Notes ##
 ### 1. Shortcut: Settings ###
 ```
@@ -121,3 +122,21 @@ On word = ALT + J
 > During Debugging, we can show and change variables in the console tab.
 ### 29. Other Plugins ###
 > 1. Key Promoter X
+> 2. Laravel Ide helper
+### 30. Auto imports ###
+> Settings / Auto imports / [] Enable Auto imports
+### 31. Configuration File (php.ini) Path ###
+> php --ini
+### 32. Define Condition with Xdebug ###
+> right click on breakpoint / condition= $age = 15
+> Debugger run only when $age = 15
+### 33. Define new value for variable During debugging with Xdebug ###
+> right click on variable / set value
+### 34. Define Scope for search ###
+```
+Settings / Scope
+```
+### 35. PHP CS fixer ###
+> https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
+> 
+> https://www.jetbrains.com/help/phpstorm/using-php-cs-fixer.html#excluding-files-from-inspection
